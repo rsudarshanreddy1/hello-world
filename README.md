@@ -1,2 +1,2 @@
 # hello-world
-Start the Git
+# Hello, i am into Git for now
